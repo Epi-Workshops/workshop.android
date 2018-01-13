@@ -1,2 +1,2 @@
 # workshop.android
-[Workshop] Android EPITECH Strasbourg
+[Workshop] Implémentation de l'API Twitter sur Android
